@@ -1,0 +1,6 @@
+resposta = input("como te chamas??")
+print("Guau, que nome mas interesante" , resposta)
+print("Ti eres unha gran persoa" , resposta)
+print("Vales moito" , resposta)
+print("Non hai ninguén máis elegante ca" , resposta)
+print("e..." , resposta , ", o mundo adórate!")
